@@ -1,0 +1,6 @@
+Transaction,Date,Value,Category,Description
+Received,2025-04-01,1000000,Payment,Pocket Money
+Spent,2025-04-22,40000,Food,Delivery
+Spent,2025-04-24,65000,Bill,Internet
+Spent,2025-04-25,125000,Food,Restaurant
+Spent,2025-04-26,20000,Food,Groceries
